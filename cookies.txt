@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.moneycontrol.com	TRUE	/	FALSE	1999999999	PHPSESSID	1629ed4796fa09bc54cc503b6d99df1b
+
